@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+    background-color: #000000;
+    color: #4EE58E;
+    font-family: Algerian
+}
+h1{
+    font-size: 46px;
+    text-align: center;
+    color: lightblue;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
+	h2{
+    color: turquoise;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+		font-size: 38px;}
+
+table {
+    width: 1000px;
+    margin-left: auto;
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    text-align: justify;
+    text-indent: 0px;
+}
+.center {
+    text-align: center;
+    text-decoration: none;
+}
+body {
+}
+img {
+    width: 235px;
+    height: 191px;
+    text-align: center;
+    margin-right: 0px;
+}
